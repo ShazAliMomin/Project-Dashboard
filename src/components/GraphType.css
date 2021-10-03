@@ -1,0 +1,24 @@
+.gType {
+    flex: 3.78;
+    float: right;
+    background-color: rgb(168, 181, 253);
+    border-radius: 7.5px;
+    padding: 10px;
+    margin-left: 15px;
+    margin-top: 15px;
+    color: black;
+    box-shadow: 4px 4px 6px rgb(156, 156, 156);
+    
+}
+
+.t {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.details {
+    font-family: Georgia;
+    font-size: 14px;
+    text-align: center;
+    padding: 7px;
+}

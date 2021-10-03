@@ -1,0 +1,18 @@
+.infoBox {
+    flex: 1.21;
+    float: left; 
+    padding: 8px;
+    background-color: rgb(232, 232, 255);
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    box-shadow: 4px 4px 6px rgb(156, 156, 156);
+}
+
+.info {
+    text-align: center;
+}
+
+.i {
+    font-size: 15px;
+}

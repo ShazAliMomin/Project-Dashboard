@@ -1,0 +1,7 @@
+.Sidebar {
+  display: flex;
+}
+
+.graphs {
+  flex: 4;
+}

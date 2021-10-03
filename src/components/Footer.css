@@ -1,0 +1,6 @@
+.footer {
+    margin-top: 32px;
+    padding-bottom :20px;
+    background-color: rgb(112, 134, 255);
+    background-image: linear-gradient(rgb(112, 134, 255), rgb(144, 160, 255));
+}
